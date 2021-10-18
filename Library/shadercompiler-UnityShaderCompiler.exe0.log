@@ -1,0 +1,4 @@
+Base path: 'C:/ETC/Programs/2019.3.7f1/Editor/Data', plugins path 'C:/ETC/Programs/2019.3.7f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=1417 outsize=629 ok=1
